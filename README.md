@@ -5,6 +5,7 @@
 ## Overview
 The repository contains Assignment 1 for AIML331.
 
+## Problem Description
 ### 1. Camera Problem
 - **1.1:** Computing the [R,t] transformation matrix for a pinhole camera positioned at [0,0,-10] and pointing 30 degrees to the right of the world coordinate origin.
 - **1.2:** Using homogeneous coordinates to find the equation of a line on the projective plane passing through projected points.
