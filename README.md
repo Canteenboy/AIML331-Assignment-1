@@ -18,3 +18,14 @@ The repository contains Assignment 1 for AIML331.
 - **2.5:** Implementing the same low-pass filter in the frequency domain
 - **2.6:** Computing the histogram of the filtered image
 - **2.7:** Using cumulative distribution functions to achieve uniform intensity distribution
+
+## Implementation Notes
+- I used generative AI for calculations of the low pass filter, conversion between spatial and frequency domain and histograms
+- I used the Numpy library for mathematical calculations
+- I used the matplotlib library for plotting and showing images and graphs
+- I used the PIL library to load the checkerboard image
+
+## Report
+The pdf contains:
+- Detailed explanation of all solutions
+- Visualization of histograms and images
